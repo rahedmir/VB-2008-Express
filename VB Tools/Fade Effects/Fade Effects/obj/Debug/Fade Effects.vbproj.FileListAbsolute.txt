@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Fade Effects\Fade Effects\bin\Debug\Fade Effects.exe
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Fade Effects\Fade Effects\bin\Debug\Fade Effects.pdb
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Fade Effects\Fade Effects\bin\Debug\Fade Effects.xml
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Fade Effects\Fade Effects\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Fade Effects\Fade Effects\obj\Debug\Fade_Effects.frmEffects.resources
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Fade Effects\Fade Effects\obj\Debug\Fade_Effects.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Fade Effects\Fade Effects\obj\Debug\Fade Effects.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Fade Effects\Fade Effects\obj\Debug\Fade Effects.exe
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Fade Effects\Fade Effects\obj\Debug\Fade Effects.xml
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Fade Effects\Fade Effects\obj\Debug\Fade Effects.pdb

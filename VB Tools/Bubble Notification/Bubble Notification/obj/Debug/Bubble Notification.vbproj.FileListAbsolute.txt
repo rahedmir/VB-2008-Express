@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\Bubble Notification\bin\Debug\Bubble Notification.exe
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\Bubble Notification\bin\Debug\Bubble Notification.pdb
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\Bubble Notification\bin\Debug\Bubble Notification.xml
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\Bubble Notification\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\Bubble Notification\obj\Debug\Bubble_Notification.frmNotification.resources
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\Bubble Notification\obj\Debug\Bubble_Notification.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\Bubble Notification\obj\Debug\Bubble Notification.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\Bubble Notification\obj\Debug\Bubble Notification.exe
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\Bubble Notification\obj\Debug\Bubble Notification.xml
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\Bubble Notification\obj\Debug\Bubble Notification.pdb
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\obj\Debug\Bubble Notification.exe
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\obj\Debug\Bubble Notification.xml
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\obj\Debug\Bubble Notification.pdb
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\bin\Debug\Bubble Notification.exe
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\bin\Debug\Bubble Notification.pdb
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\bin\Debug\Bubble Notification.xml
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\obj\Debug\Bubble_Notification.frmNotification.resources
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\obj\Debug\Bubble_Notification.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\VB Tools\Bubble Notification\Bubble Notification\obj\Debug\Bubble Notification.vbproj.GenerateResource.Cache
