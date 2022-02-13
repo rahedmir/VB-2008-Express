@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Desktop\Moving Menu\Moving Menu\bin\Debug\Moving Menu.exe
+C:\Documents and Settings\Administrator\Desktop\Moving Menu\Moving Menu\bin\Debug\Moving Menu.pdb
+C:\Documents and Settings\Administrator\Desktop\Moving Menu\Moving Menu\bin\Debug\Moving Menu.xml
+C:\Documents and Settings\Administrator\Desktop\Moving Menu\Moving Menu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Moving Menu\Moving Menu\obj\Debug\Moving_Menu.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\Moving Menu\Moving Menu\obj\Debug\Moving_Menu.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Moving Menu\Moving Menu\obj\Debug\Moving Menu.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Moving Menu\Moving Menu\obj\Debug\Moving Menu.exe
+C:\Documents and Settings\Administrator\Desktop\Moving Menu\Moving Menu\obj\Debug\Moving Menu.xml
+C:\Documents and Settings\Administrator\Desktop\Moving Menu\Moving Menu\obj\Debug\Moving Menu.pdb
